@@ -1,0 +1,371 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,05/08/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,01/06/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,20/05/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,28/10/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,14/08/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,25/11/2024,5600,6000,5900,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,03/08/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,12/07/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,24/06/2023,4700,5000,4925,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,27/03/2023,2400,2600,2550,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,29/06/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,28/07/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,29/08/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,12/09/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,27/02/2024,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,21/03/2023,2700,3000,2925,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,03/08/2023,2400,2600,2550,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,17/09/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,20/09/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,11/04/2023,2400,2600,2550,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,FAQ,28/09/2024,5600,6000,5900,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,21/08/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,19/09/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur,Rice,Other,Local,27/09/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,26/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,15/12/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,30/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,06/12/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,06/02/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,01/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,05/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,09/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,27/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,30/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,08/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,19/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,04/12/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,08/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,18/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,19/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,27/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,31/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,01/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,02/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,03/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,07/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/01/2026,3800,4200,4100,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,12/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,22/01/2026,6200,6500,6350,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,03/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,11/02/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,27/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,24/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,22/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,FAQ,27/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,26/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,01/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,02/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,23/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,08/12/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,11/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,02/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,14/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,20/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,31/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,04/02/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,05/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,12/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,14/11/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,15/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,21/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,07/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,10/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,12/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,11/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,18/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,25/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,19/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,03/01/2026,6500,6800,6725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,09/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,04/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,22/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,26/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,10/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,23/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,24/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,07/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/02/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,03/01/2026,3800,4200,4100,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,10/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,19/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,06/02/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,15/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,17/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,27/11/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,28/11/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,29/11/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,31/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,05/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,14/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,12/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,13/12/2025,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,16/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,23/12/2025,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,29/12/2025,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,06/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,08/01/2026,6200,6500,6425,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,21/01/2026,3000,3200,3150,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,28/01/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,02/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Nagpur APMC,Rice,Other,Local,10/02/2026,3500,3800,3725,3
+Maharashtra,Nagpur,Ramtek,Rice,1009 Kar,FAQ,09/11/2023,1900,1983,1941,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/07/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,03/08/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,22/08/2024,3800,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,22/06/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/05/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/05/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/05/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/01/2024,3500,5600,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,14/03/2024,3500,5500,4650,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/04/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/01/2025,3850,5500,4900,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/01/2025,3750,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/01/2025,3850,5100,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,05/09/2024,3900,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/09/2024,4000,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,06/03/2025,3750,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/01/2023,2600,4400,3800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/03/2023,2500,4700,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/03/2023,2500,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/04/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/05/2023,2700,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/07/2023,2500,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,13/07/2023,2800,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/08/2023,2800,4850,4600,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,24/08/2023,2800,4700,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,31/08/2023,2500,4800,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,19/10/2023,3000,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/11/2023,2800,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/11/2023,2800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/11/2023,2800,4950,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/11/2023,2800,4900,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/12/2023,3500,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/12/2023,3500,5300,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,12/06/2025,3800,4750,4550,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,14/06/2025,3800,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,28/06/2025,3800,4500,4350,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,10/07/2025,3800,4700,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,03/04/2025,3800,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,24/04/2025,3800,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,24/10/2024,3850,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,17/10/2024,3800,6050,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/11/2024,4000,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,08/05/2025,3800,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,10/05/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,22/05/2025,3800,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,25/09/2025,3500,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,14/08/2025,3800,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,14/11/2024,4000,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/01/2025,3600,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/01/2025,3500,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,10/10/2024,3900,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,05/10/2024,4000,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/08/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,17/08/2024,3850,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/12/2024,3800,5300,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/01/2024,3500,5100,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/02/2024,3500,5300,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,03/02/2024,3500,5400,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/02/2024,3400,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,10/02/2024,3300,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,24/02/2024,3400,5600,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/04/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/05/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/06/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,29/06/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/07/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,10/04/2025,3800,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,17/04/2025,3800,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,07/01/2023,2600,4400,3800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/03/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/03/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/04/2023,2400,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/04/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,29/04/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,24/06/2023,2500,4850,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/07/2023,2800,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,15/07/2023,3000,5300,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,26/08/2023,2800,4700,4300,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/09/2023,2800,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/09/2023,3000,4850,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/09/2023,3000,4850,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,05/10/2023,3000,5100,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,07/12/2023,2500,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/12/2023,3500,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,28/12/2023,3200,5400,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,01/03/2025,3800,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,15/03/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,22/03/2025,3800,5100,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,17/05/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,29/05/2025,4000,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,31/05/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,05/07/2025,3800,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,12/07/2025,3800,4500,4300,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,19/07/2025,3800,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,04/10/2025,3800,4500,4250,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,09/10/2025,3700,4500,4250,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,18/10/2025,3600,4500,4150,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,28/11/2024,3200,4700,4450,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/01/2024,3500,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,13/01/2024,3500,6000,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/01/2024,3500,5200,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,29/02/2024,3400,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/03/2024,3500,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,28/03/2024,3800,5500,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/04/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/05/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/05/2024,3800,5500,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/02/2023,3000,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/03/2023,2500,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/03/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/05/2023,2400,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/05/2023,2400,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,03/06/2023,2400,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,10/06/2023,2500,4800,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,22/06/2023,2500,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/07/2023,2800,4850,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,10/08/2023,2800,5000,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,17/08/2023,2500,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,07/10/2023,3000,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/10/2023,3100,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/11/2023,3000,5000,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,13/06/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,15/06/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,27/06/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/07/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/07/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/01/2025,3800,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,19/12/2024,3800,5000,4600,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,26/12/2024,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,28/12/2024,3650,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,05/04/2025,3800,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,10/08/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,06/02/2025,3850,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,08/02/2025,3850,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,13/02/2025,3850,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,22/02/2025,3700,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/09/2024,4000,6000,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,20/03/2025,3850,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,24/07/2025,3700,4600,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,05/06/2025,3700,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,19/06/2025,3800,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,30/08/2025,3700,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,01/11/2025,3500,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,14/12/2024,3400,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/05/2024,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,30/05/2024,3850,5500,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/07/2024,3850,5500,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/01/2024,3500,5500,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/01/2024,3400,5200,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,15/02/2024,3400,6000,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,17/02/2024,3400,5700,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,22/02/2024,3400,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,07/03/2024,3500,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/03/2024,3500,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/04/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,29/08/2024,4000,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,03/10/2024,4000,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,26/10/2024,3850,6000,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/06/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/06/2024,3850,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,07/11/2024,3850,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/11/2024,3800,4700,4350,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,20/02/2025,3750,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,16/01/2025,3850,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/01/2025,3850,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,08/03/2025,3750,5000,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,27/03/2025,3800,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/01/2023,2600,4400,3800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/02/2023,3400,5000,4300,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,15/04/2023,2400,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/05/2023,2400,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,11/05/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,15/06/2023,2500,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,17/06/2023,2500,4750,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/07/2023,2700,4750,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/09/2023,2800,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,28/10/2023,3000,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,30/11/2023,2800,4800,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/12/2023,3500,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,30/12/2023,3300,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,19/04/2025,3750,5200,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,15/05/2025,3800,5000,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,24/05/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,02/08/2025,3800,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,26/06/2025,3800,4800,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,04/09/2025,3600,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,18/09/2025,3800,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,16/10/2025,3700,4500,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/06/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,18/01/2024,3500,5200,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/03/2024,3500,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,30/03/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,06/04/2024,3800,5500,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,30/01/2025,3800,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,01/02/2025,3850,5200,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,15/02/2025,3850,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,29/03/2025,3750,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,21/06/2025,3800,5000,4750,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,03/05/2025,3800,5300,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,05/12/2024,4000,5300,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,21/12/2024,3500,5200,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/11/2024,3850,6000,5500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,13/07/2024,3800,5500,4850,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/08/2024,3850,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,24/08/2024,3850,5700,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/02/2023,3500,4700,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,25/02/2023,2500,5000,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/03/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,13/04/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/04/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,04/05/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,20/05/2023,2500,4400,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/06/2023,2500,4500,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,08/06/2023,2500,4700,4200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,01/07/2023,2500,4850,4000,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,22/07/2023,2700,4750,4400,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,03/08/2023,2800,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,19/08/2023,2800,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,30/09/2023,3000,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,12/10/2023,3000,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,26/10/2023,3000,5000,4800,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,02/11/2023,2800,5000,4700,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,09/11/2023,3000,5000,4500,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,14/12/2023,3500,5500,5200,3
+Maharashtra,Nagpur,Umared,Rice,Other,FAQ,23/12/2023,3500,5500,5000,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,28/10/2025,3500,4500,4150,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,07/08/2025,3800,4500,4300,3
+Maharashtra,Nagpur,Umared,Rice,Other,Local,21/08/2025,3700,4500,4200,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,08/11/2025,3500,4400,4000,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,01/11/2025,3500,4500,4200,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,11/12/2025,3300,4600,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,27/12/2025,3600,5000,4300,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,06/12/2025,3600,4700,4300,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,17/01/2026,3520,5000,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,31/01/2026,3500,5000,4450,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,05/02/2026,3400,4850,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,13/12/2025,3400,4350,3875,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,04/12/2025,3450,4450,4200,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,01/01/2026,3500,5000,4250,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,24/01/2026,3500,5000,4450,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,15/11/2025,3200,4300,4000,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,20/11/2025,3400,4450,4250,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,29/11/2025,3400,4450,4150,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,20/12/2025,3400,4600,4200,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,07/02/2026,3300,4800,4250,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,13/11/2025,3400,4300,4150,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,22/11/2025,3250,4420,4000,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,27/11/2025,3400,4500,4200,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,18/12/2025,3450,4600,4100,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,03/01/2026,3600,5000,4300,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,10/01/2026,3500,5000,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,08/01/2026,3450,5000,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,15/01/2026,3500,5000,4350,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,22/01/2026,3400,5000,4450,3
+Maharashtra,Nagpur,Umared APMC,Rice,Other,Local,12/02/2026,3450,4850,4450,3

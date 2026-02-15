@@ -1,0 +1,2526 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min_Price,Max_Price,Modal_Price,Commodity_Code
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/07/2024,2500,2600,2550,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,15/07/2024,1800,2600,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/07/2024,2500,2800,2650,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,01/07/2024,1800,2670,2290,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/07/2024,2000,2800,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,01/08/2024,2400,2600,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,31/08/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,24/06/2024,1800,2600,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/09/2024,2800,3500,2866,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/04/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/01/2024,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/01/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,11/01/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/01/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,18/01/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,24/01/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/02/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,21/02/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,22/02/2024,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,23/02/2024,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,18/03/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,26/03/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/03/2024,1600,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/04/2024,1900,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,13/04/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/01/2025,1800,2500,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/01/2025,1800,2500,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/01/2025,2300,2500,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/01/2025,1600,2500,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/01/2025,2400,2500,2450,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,31/01/2025,1700,2500,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/09/2024,2000,3500,2775,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/09/2024,2200,3500,2733,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/09/2024,2300,2300,2300,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/09/2024,2200,5000,3187,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/09/2024,2200,3000,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/09/2024,2200,2500,2350,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/05/2024,2100,2100,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,15/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,31/05/2024,1900,1900,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/05/2024,1900,2500,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/05/2024,2100,2100,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/05/2024,2100,2100,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/03/2025,1600,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/03/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/10/2024,2500,3000,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/12/2024,2600,3000,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/12/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/12/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/12/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/05/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,18/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,24/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,13/06/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,17/06/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,22/06/2023,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/07/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,31/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/08/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,23/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,24/08/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/08/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,31/08/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,09/10/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/10/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,26/10/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/11/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/11/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,09/11/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/11/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/12/2023,1300,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,21/12/2023,1400,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,27/12/2023,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/11/2024,2200,2700,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/02/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,09/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,10/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/06/2025,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/07/2025,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/07/2025,1450,2200,1962,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/07/2025,1350,2200,1887,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/07/2025,1450,2000,1733,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/07/2025,1400,2000,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,31/07/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/04/2025,1500,2000,1837,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/04/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,01/10/2024,1800,2300,2050,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/10/2024,2500,2600,2550,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/11/2024,2700,2700,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/11/2024,2100,3500,2766,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,12/11/2024,2500,3000,2733,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/05/2025,1700,2300,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/05/2025,1700,2300,2037,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/05/2025,2000,2300,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/05/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/05/2025,1500,2200,1975,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,08/09/2025,1200,2000,1742,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,12/09/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/09/2025,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/09/2025,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/09/2025,1200,2000,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/10/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/10/2025,1700,2000,1850,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/11/2025,1200,2200,1633,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,09/10/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/08/2025,1250,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/08/2025,1100,2000,1625,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/08/2025,1250,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/08/2025,1400,2000,1633,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/08/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/02/2025,1700,2000,1875,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/09/2024,2300,2500,2375,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,12/09/2024,1700,3500,2550,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/09/2024,2300,2500,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/12/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/12/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,15/01/2025,1600,2500,2225,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/01/2025,2500,3000,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/01/2025,2000,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/01/2025,2000,2600,2366,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/10/2024,2400,3500,2900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/10/2024,2700,2700,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/08/2024,1500,2500,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,27/08/2024,1600,2500,2166,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/10/2024,2600,2700,2650,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/11/2024,2200,27001,2450,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/11/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/11/2024,2250,3000,2587,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/11/2024,2700,3000,2850,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/09/2024,2400,3000,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/09/2024,1700,2500,2133,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/09/2024,2300,3500,2933,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/09/2024,2300,2500,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/05/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,27/05/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,29/05/2024,1600,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/06/2024,1900,1900,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/06/2024,2200,2200,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/06/2024,3000,3000,3000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/06/2024,2600,3000,3000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/06/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/04/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/01/2024,1200,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/01/2024,1300,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/01/2024,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/01/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,23/01/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/02/2024,1100,1100,1100,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/02/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,17/02/2024,1000,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/03/2024,1300,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,11/03/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/04/2024,1700,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/04/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/04/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/07/2024,1500,2800,2266,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/07/2024,2000,4000,2833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,08/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,09/04/2025,1500,2000,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,25/04/2025,2000,2500,2175,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,17/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/08/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,03/08/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/09/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,16/10/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/10/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/11/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/11/2023,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,03/11/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,11/11/2023,1300,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/11/2023,1400,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/12/2023,1400,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/12/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/12/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,18/12/2023,1400,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/12/2023,1200,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/03/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/03/2025,1800,2000,1950,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/03/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,08/05/2025,2200,2300,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/05/2025,2200,2200,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,14/06/2025,2000,2500,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/06/2025,2000,2300,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,14/07/2025,1500,2200,1983,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/08/2025,1600,1800,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/08/2025,1200,2000,1666,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,18/08/2025,1200,2000,1620,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/08/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/09/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,13/10/2025,1200,2000,1675,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,14/10/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,16/05/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,23/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,03/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,27/06/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,21/07/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/07/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,27/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/08/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/08/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/09/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,09/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/09/2023,1100,1100,1100,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/10/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,21/10/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,23/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/11/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/12/2023,1000,1800,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/12/2023,1000,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,09/12/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,11/12/2023,1000,1800,1625,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,22/12/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/12/2023,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/10/2024,2400,3500,2950,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/10/2024,2400,3500,2833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/05/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/07/2024,2000,3000,2557,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,29/07/2024,1600,2400,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/06/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/06/2024,2400,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,27/06/2024,1600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,01/01/2025,1300,2500,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/01/2025,5000,5000,5000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/01/2025,2400,2500,2450,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/01/2025,1800,2500,2242,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/01/2025,2500,3000,2666,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/12/2024,2300,2600,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/12/2024,2400,3000,2620,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,12/12/2024,2000,3000,2533,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/12/2024,2600,3000,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/12/2024,2200,3000,2566,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/12/2024,2500,3000,2833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/12/2024,1700,2500,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/11/2024,2400,3500,2833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/11/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/11/2024,2700,2700,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/05/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/05/2024,1900,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/05/2024,1900,1900,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/04/2025,1800,2000,1975,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/04/2025,1700,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,09/05/2025,2000,2300,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,13/05/2025,1650,2300,1983,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/05/2025,2000,2300,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/08/2024,3000,3000,3000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/08/2024,2400,2400,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/08/2024,1500,3300,2366,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/08/2024,2400,2500,2450,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/08/2024,2600,3500,2966,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/02/2025,2000,2500,2180,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,14/02/2025,1500,2000,1720,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/02/2025,2000,2500,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,27/09/2024,1700,2500,2133,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,13/09/2024,2300,3500,2733,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/01/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,09/01/2024,1100,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,30/01/2024,3000,3000,3000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,03/02/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/02/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/02/2024,1300,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,13/03/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/04/2024,1900,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/03/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,03/04/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/04/2024,1800,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/03/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/03/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/03/2025,1600,2000,1920,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/07/2025,1500,1800,1650,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/07/2025,2000,2200,2066,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/07/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,22/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,23/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/07/2025,1500,2000,1833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/07/2025,1350,2000,1870,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,12/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/09/2025,1200,2000,1740,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,10/09/2025,1300,2000,1660,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/09/2025,1200,2000,1783,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,22/09/2025,1250,2000,1510,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/09/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/08/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,13/08/2025,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/08/2025,1200,2000,1733,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/08/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/08/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/10/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/10/2025,1300,2000,1650,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/10/2025,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/11/2025,1200,2200,1633,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/10/2025,1250,2000,1630,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/10/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/12/2024,2300,3000,2633,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/12/2024,2200,2500,2366,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/12/2024,2400,2400,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,27/12/2024,1600,2500,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/12/2024,2000,2500,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,31/12/2024,1800,2500,2325,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/06/2024,2200,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/06/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,15/06/2024,2700,2700,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,26/06/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,29/06/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/07/2024,2000,2500,2237,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/07/2024,1800,3000,2350,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/07/2024,2800,2800,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,18/07/2024,2500,2800,2650,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,29/01/2024,1100,1100,1100,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,31/01/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/03/2024,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/03/2024,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/03/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,27/03/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/04/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,29/04/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/02/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,16/02/2024,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,16/03/2024,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/04/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/11/2024,2300,3200,2725,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,28/11/2024,2250,2600,2425,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,26/05/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/06/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/06/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,11/09/2023,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,30/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/10/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,31/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/11/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/11/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,10/11/2023,1250,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,30/11/2023,1300,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/12/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/12/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,16/12/2023,1000,1800,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/12/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,26/12/2023,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/12/2023,1100,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,30/12/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,06/08/2024,2600,3000,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/08/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/08/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/08/2024,1400,2400,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/10/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,24/10/2024,2300,2800,2566,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/10/2024,2300,2700,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/09/2024,2200,3000,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,24/09/2024,2300,2300,2300,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/09/2024,2600,3500,2900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/09/2024,1700,3500,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/02/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/02/2025,1300,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,24/01/2025,1500,2500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,25/01/2025,2200,2500,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,01/03/2025,1700,2000,1860,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,15/03/2025,1800,2000,1933,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,25/03/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/04/2025,1700,2000,1957,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,22/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/04/2025,1500,2500,2033,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,12/05/2025,2000,2300,2166,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,22/05/2025,2000,2300,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/05/2025,2000,2200,2066,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/05/2025,2000,2200,2066,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,31/05/2025,2000,2500,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/08/2025,1400,2000,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/08/2025,1200,2000,1650,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,25/08/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/06/2025,1400,2200,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,13/06/2025,2000,2500,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/06/2025,2000,2500,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,24/06/2025,1500,2200,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/06/2025,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/06/2025,2000,2200,2066,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,21/06/2025,2000,2500,2250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,10/07/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/09/2025,1400,2000,1725,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,27/09/2025,1250,1250,1250,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/11/2025,1200,2000,1550,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/10/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/10/2025,1200,2100,1533,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,31/10/2025,1300,1300,1300,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,01/06/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/06/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/06/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,12/06/2024,2200,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/06/2024,2400,2400,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,21/06/2024,2400,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/05/2024,2100,2200,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/05/2024,1900,1900,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/05/2024,1900,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,03/05/2024,2200,2200,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/05/2024,1900,2500,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/04/2024,1600,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/01/2024,1350,1350,1350,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/01/2024,950,950,950,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,25/01/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,07/02/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/02/2024,1200,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,13/02/2024,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,15/03/2024,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/03/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/04/2024,1900,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,24/04/2024,1800,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,04/01/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,02/02/2024,1000,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,12/02/2024,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/03/2024,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,02/01/2025,1700,2500,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/01/2025,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/01/2025,2400,2500,2450,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/01/2025,2300,2500,2400,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/02/2025,1500,2500,1950,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/02/2025,1900,2000,1975,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/02/2025,1600,2500,2075,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,07/02/2025,1300,2200,1833,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,20/02/2025,1200,2000,1666,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,28/02/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,15/10/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/10/2024,2600,3500,3050,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,05/10/2024,2500,3500,2866,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/10/2024,2000,3500,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/10/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/10/2024,2700,3500,3100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,18/06/2025,1400,2500,1980,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,23/06/2025,1600,2500,2020,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/06/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/06/2025,2000,2500,2125,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/06/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/06/2025,1500,2000,1775,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/07/2025,1500,2000,1766,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,08/07/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,12/07/2025,2000,2200,2066,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,18/07/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,30/07/2025,1100,2000,1633,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/05/2025,2000,2200,2028,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/05/2025,1600,2000,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/05/2025,1700,2500,2028,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/05/2025,2000,2300,2150,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,26/05/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,29/05/2025,2000,2200,2050,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,03/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,16/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,19/04/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,09/11/2024,2100,3500,2587,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/11/2024,2700,3000,2850,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/11/2024,2500,2700,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/11/2024,2300,3000,2640,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,19/11/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,30/11/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,14/12/2024,2500,3200,2850,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,16/12/2024,2200,3000,2700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,23/12/2024,1750,2500,2278,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,04/12/2024,2300,2700,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/12/2024,2000,2500,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,07/08/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,08/08/2024,2500,2500,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,17/08/2024,2500,2600,2550,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,20/08/2024,2400,3500,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,11/07/2024,2400,3500,2850,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,25/07/2024,2400,2600,2500,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,12/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,22/07/2024,1800,2400,2100,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,31/07/2024,2600,2600,2600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,31/05/2023,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,01/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,05/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,14/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,21/06/2023,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/06/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,06/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,19/07/2023,1700,1700,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,24/07/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/07/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,08/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,28/08/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,18/09/2023,1600,1600,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,30/10/2023,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,20/11/2023,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Other,FAQ,13/12/2023,1400,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,FAQ,10/09/2024,2400,3500,2800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/08/2025,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,12/08/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,02/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,05/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,09/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,11/09/2025,1300,2000,1700,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,13/09/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,17/09/2025,1200,2000,1566,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,18/09/2025,1300,2000,1600,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,04/10/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,06/10/2025,1150,2000,1630,24
+Maharashtra,Nagpur,Hingna,Potato,Local,Local,08/10/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,17/11/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,29/11/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,22/11/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,18/12/2025,1800,1800,1800,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,24/12/2025,1300,2000,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,09/12/2025,1400,2000,1700,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,04/12/2025,1400,2000,1675,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,01/01/2026,1000,2000,1400,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,08/01/2026,1000,2000,1560,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,12/01/2026,1000,2000,1487,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,10/01/2026,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,30/01/2026,700,700,700,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,09/02/2026,1200,1700,1450,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,10/02/2026,1000,1500,1333,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,25/11/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,01/11/2025,1200,2200,1633,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,23/12/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,26/12/2025,1000,2000,1620,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,29/12/2025,800,2000,1450,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,02/12/2025,1400,2000,1675,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,27/12/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,08/12/2025,1150,2000,1705,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,04/02/2026,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,05/02/2026,900,1300,1066,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,13/02/2026,1000,1200,1100,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,13/01/2026,1300,1800,1550,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,14/01/2026,800,1800,1400,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,15/01/2026,1000,1800,1333,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,05/01/2026,800,2000,1466,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,23/01/2026,1200,1200,1200,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,15/11/2025,2200,2200,2200,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,19/11/2025,1350,2200,1850,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,08/11/2025,2200,2200,2200,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,04/11/2025,1200,2200,1633,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,05/11/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,13/12/2025,1400,2000,1700,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,17/12/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,19/12/2025,1000,1400,1133,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,03/01/2026,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,22/01/2026,800,1800,1285,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,07/02/2026,1000,1000,1000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,12/02/2026,1400,1400,1400,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,06/11/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,11/11/2025,1200,2200,1633,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,03/11/2025,1200,2000,1550,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,27/11/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,28/11/2025,1100,1500,1266,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,01/12/2025,1100,2000,1750,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,03/12/2025,2000,2000,2000,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,05/12/2025,1400,1800,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,16/12/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,31/12/2025,800,1500,1200,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,30/12/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,22/12/2025,900,2000,1688,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,19/01/2026,900,1800,1560,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,20/01/2026,900,1800,1433,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,27/01/2026,900,1800,1500,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,28/01/2026,1000,1500,1300,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,07/11/2025,1300,1600,1450,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,10/11/2025,1200,2500,1850,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,13/11/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,18/11/2025,1200,2200,1700,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,26/11/2025,1200,2000,1800,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,20/12/2025,1000,2000,1500,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,06/12/2025,1200,2000,1466,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,10/12/2025,1500,2000,1750,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,11/12/2025,1200,2000,1666,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,15/12/2025,1200,2000,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,17/01/2026,1500,1800,1600,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,07/01/2026,1000,2000,1425,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,29/01/2026,1500,1500,1500,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,31/01/2026,1000,1500,1375,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,02/02/2026,900,2800,1385,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,03/02/2026,1000,1500,1175,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,06/02/2026,900,1700,1200,24
+Maharashtra,Nagpur,Hingna APMC,Potato,Local,Local,11/02/2026,700,1400,1120,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/04/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/12/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/07/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/07/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/08/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/08/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/11/2023,1500,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,02/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,07/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,15/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,21/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,02/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,04/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,12/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,17/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,27/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,28/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,30/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,11/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,25/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,08/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,09/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,24/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,26/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,30/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,27/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,06/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,06/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,18/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/07/2025,1324,1825,1574,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,16/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,22/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/09/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/09/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/10/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,31/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/08/2025,1935,2435,2185,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/08/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/01/2025,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,26/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/09/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/06/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/01/2024,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/02/2024,500,1500,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/02/2024,500,1500,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/02/2024,500,1500,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/02/2024,500,1500,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/03/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/04/2025,2000,2500,2400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/04/2025,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/06/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/07/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/07/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/07/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/09/2023,1500,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/10/2023,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/11/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/12/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,23/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,29/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,30/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,06/02/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,05/03/2023,800,1200,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,06/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,09/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,15/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,19/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,12/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,17/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,05/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,10/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,22/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,29/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,19/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,26/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,18/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,25/05/2025,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,16/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/08/2025,1820,2220,2020,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,11/08/2025,1827,2327,2077,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/08/2025,1928,2428,2178,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/08/2025,2056,2556,2306,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/08/2025,2030,2550,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/09/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/09/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/09/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/09/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/10/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,16/10/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,19/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/10/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/06/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/06/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/07/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/08/2023,1500,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/08/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/12/2023,1000,1800,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,09/01/2023,1000,1600,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,10/01/2023,1000,1800,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,17/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,31/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,19/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,23/02/2023,1000,1400,1300,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,01/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,03/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,16/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,21/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,24/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,04/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,09/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,10/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,16/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,30/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,01/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,14/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,15/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,16/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,18/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/10/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/05/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/07/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/06/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/06/2024,4500,5500,5000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/01/2025,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/11/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,11/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/05/2025,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,22/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,18/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/09/2024,3000,4500,4000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/01/2024,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/02/2024,1100,1500,1300,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/02/2024,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/01/2024,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/01/2024,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/04/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,25/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,27/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/07/2025,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/07/2025,1950,2550,2250,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,22/07/2025,1650,2450,2050,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/06/2025,1100,1500,1300,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/09/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,19/09/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/09/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/08/2025,1826,2126,1976,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/08/2025,2080,2580,2330,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,25/08/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/08/2025,2080,2580,2330,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,22/10/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/10/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/10/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/05/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/05/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/06/2024,2500,3000,2800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/07/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/01/2024,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/03/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/01/2024,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/01/2024,1500,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/02/2024,500,1500,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/02/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/06/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/06/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/07/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/07/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/07/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/07/2023,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/07/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/08/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/11/2023,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/11/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/11/2023,1500,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/12/2023,1400,4000,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,18/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,31/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,03/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,19/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,22/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,24/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,01/02/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,03/02/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,05/02/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,10/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,12/02/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,17/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,20/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,22/02/2023,1000,1400,1300,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,28/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,20/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,23/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,03/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,06/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,13/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,18/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,19/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,20/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,24/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,28/04/2023,1000,1600,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,07/05/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,11/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,23/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/09/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/01/2025,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/01/2025,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,29/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,11/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,06/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,06/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/08/2025,1329,1929,1629,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/08/2025,1724,2324,2024,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/08/2025,1750,2350,2050,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,08/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,25/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,13/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,09/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,11/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,12/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,17/07/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/07/2025,1450,2650,2050,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,30/07/2025,1821,2223,2022,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,31/07/2025,1721,2121,1921,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/09/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/09/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/09/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,22/09/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/09/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/10/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,06/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/06/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/05/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/05/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/05/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/01/2024,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,03/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/04/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/02/2024,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/03/2024,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/03/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/04/2024,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/09/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/09/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,29/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/01/2025,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/01/2025,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,05/01/2025,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/01/2025,2000,3000,2500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/01/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,16/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,20/02/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,04/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/10/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,18/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,21/03/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,27/06/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,24/07/2025,1825,2425,2125,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,27/07/2025,2125,2325,2225,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/07/2025,1638,2448,2043,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,16/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,28/05/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,03/04/2025,800,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,25/04/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,27/04/2025,1000,2000,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/11/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,19/11/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,15/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/12/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/12/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,12/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,22/12/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,01/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,13/08/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,21/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,26/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/08/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,09/07/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,14/07/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,23/06/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/06/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,02/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,06/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,10/08/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,28/08/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/09/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,08/10/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,20/10/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,07/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,16/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,30/11/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,11/12/2023,1300,1700,1500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,25/12/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,04/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,06/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,12/01/2023,1400,1800,1600,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,20/01/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,08/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,09/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,14/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,24/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,27/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,07/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,13/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,14/03/2023,800,1200,1000,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,22/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,29/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,31/03/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,02/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,05/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,07/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,14/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,27/04/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,12/05/2023,1200,1600,1400,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,17/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,21/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Other,FAQ,28/05/2023,1600,2000,1800,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,17/09/2024,2500,3500,3000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,24/09/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,FAQ,27/09/2024,3500,4500,4000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,01/08/2025,1836,2226,2031,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,14/08/2025,1825,2325,2075,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,18/08/2025,2075,2575,2325,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,19/08/2025,2094,2586,2340,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,26/08/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,02/09/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,05/09/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,04/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,07/10/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,10/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,15/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,23/10/2025,1500,2500,2000,24
+Maharashtra,Nagpur,Kamthi,Potato,Local,Local,26/10/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,28/11/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,27/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,01/12/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,30/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,08/12/2025,2070,2570,2320,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,15/12/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,12/12/2025,2070,2570,2320,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,29/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,21/12/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,02/01/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,09/01/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,14/01/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,28/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,29/01/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,13/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,25/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,18/12/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,24/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,28/12/2025,2070,2570,2320,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,07/12/2025,2070,2570,2320,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,11/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,08/02/2026,2090,2590,2340,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,10/02/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,12/02/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,01/01/2026,3060,3560,3310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,07/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,10/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,15/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,26/01/2026,1520,2020,1770,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,19/11/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,24/11/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,12/11/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,03/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,04/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,05/12/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,10/12/2025,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,17/12/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,23/12/2025,2010,2510,2260,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,31/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,05/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,06/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,08/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,17/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,18/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,24/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,11/02/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,17/11/2025,2000,2500,2400,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,07/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,18/11/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,26/11/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,03/12/2025,2040,2510,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,04/12/2025,3020,3520,3270,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,09/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,22/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,19/12/2025,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,26/12/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,21/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,27/01/2026,2080,2580,2330,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,23/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,01/02/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,02/02/2026,2070,2570,2320,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,06/02/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,09/02/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,02/11/2025,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,20/11/2025,2020,2520,2270,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,04/01/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,22/01/2026,2030,2530,2280,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,31/01/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,03/02/2026,2040,2540,2290,24
+Maharashtra,Nagpur,Kamthi APMC,Potato,Local,Local,04/02/2026,2060,2560,2310,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/07/2024,2000,3000,2750,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/07/2024,2000,2800,2625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/07/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/07/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/07/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/06/2024,1800,2200,2100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/06/2024,1800,2200,2100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/06/2024,1800,2600,2400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/01/2024,1300,1700,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/01/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/02/2024,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/02/2024,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/03/2024,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/03/2024,1400,1700,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/03/2024,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/04/2024,1600,2000,1900,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/04/2024,1500,2000,1875,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/10/2024,2000,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/10/2024,2000,2500,2375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/12/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/07/2023,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/07/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/07/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/08/2023,1300,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/09/2023,1200,1300,1275,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/11/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/11/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/11/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/12/2023,1100,1300,1200,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,07/01/2023,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,07/02/2023,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,08/02/2023,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,14/02/2023,800,1300,1175,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,15/02/2023,800,1300,1175,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,20/02/2023,700,1200,1075,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,21/02/2023,700,1200,1075,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,01/03/2023,500,900,800,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,05/04/2023,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,13/04/2023,700,1300,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,20/04/2023,700,1300,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,23/04/2023,700,1300,1200,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,09/05/2023,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,27/05/2023,600,800,750,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,30/05/2023,900,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/11/2024,2000,2600,2550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/02/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/02/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/02/2025,1000,1800,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/06/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/06/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,02/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,07/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,19/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/06/2025,1000,1800,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/05/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,11/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/10/2025,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/11/2025,1400,1800,1725,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/11/2025,1500,2000,1875,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,11/08/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/12/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/12/2024,1500,2300,2100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/12/2024,1200,2000,1800,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/01/2025,1400,2200,1825,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/01/2025,1400,2000,1900,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/10/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/06/2024,1800,2200,2100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/01/2024,1600,2200,2050,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/01/2024,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/01/2024,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/01/2024,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/02/2024,1000,1500,1425,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/03/2024,1400,2000,1800,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/03/2024,1400,2000,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/03/2024,1600,2000,1900,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/04/2024,1600,2000,1900,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/04/2024,1500,2000,1875,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/07/2024,2000,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/07/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/07/2024,2000,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,02/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,23/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/12/2023,1100,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,01/02/2023,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,02/02/2023,800,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,18/02/2023,700,1200,1075,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,25/02/2023,500,1000,875,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,28/02/2023,500,900,800,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,12/03/2023,700,1300,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,13/03/2023,700,1100,1000,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,14/03/2023,700,1100,1000,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,16/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,18/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,19/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,28/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,29/03/2023,600,1000,900,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,11/04/2023,700,1100,1000,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,19/04/2023,900,1300,1200,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,25/04/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,26/04/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,18/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,29/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/06/2023,900,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/06/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/07/2023,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/08/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/10/2023,1200,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/11/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/12/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/03/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,11/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,23/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,13/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,14/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/09/2025,1000,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,23/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/10/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/10/2025,1000,1700,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/10/2025,1400,1600,1550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/05/2023,900,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/06/2023,900,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/06/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/07/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/07/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,31/08/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/12/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/12/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,21/01/2023,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,23/01/2023,800,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,31/01/2023,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,11/02/2023,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,12/02/2023,800,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,22/02/2023,500,900,800,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,04/03/2023,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,20/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,21/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,04/04/2023,600,1300,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,08/04/2023,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,18/04/2023,700,1300,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,24/04/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,27/04/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,03/05/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,24/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,25/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/10/2024,2200,2800,2700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/10/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/10/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/10/2024,2200,2800,2525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/07/2024,2200,2800,2625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/07/2024,2000,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/07/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/06/2024,1800,2600,2400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/01/2025,1400,2000,1800,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/01/2025,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/12/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/12/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/12/2024,2000,2400,2300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/12/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/12/2024,1700,2300,2150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/12/2024,1200,2000,1800,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,31/12/2024,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,14/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,07/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/05/2025,1000,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,25/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/03/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/03/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/02/2024,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/01/2024,1100,1500,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/01/2024,1100,1500,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/02/2024,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/02/2024,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/02/2024,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/03/2024,1200,1800,1550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/03/2024,1400,1700,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,31/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,13/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/07/2025,1000,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,23/06/2025,1000,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,11/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/09/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,02/09/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,07/09/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,02/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,25/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/10/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,13/10/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,07/10/2025,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/10/2025,1400,1600,1550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/12/2024,1600,2400,2200,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/12/2024,1700,2300,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/12/2024,1700,2500,2300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/05/2024,1700,2300,2150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/06/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/01/2024,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/02/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/04/2024,1500,2200,2200,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,28/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/06/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/06/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/07/2023,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/08/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/11/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/11/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,11/01/2023,1000,1800,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,17/01/2023,1000,1800,1725,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,24/01/2023,800,1300,1175,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,25/01/2023,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,06/02/2023,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,09/02/2023,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,13/02/2023,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,27/02/2023,500,900,800,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,15/03/2023,700,1000,925,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,03/04/2023,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,09/04/2023,700,1100,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,17/04/2023,700,1300,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,29/04/2023,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,07/05/2023,900,1300,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,10/05/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,15/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/10/2024,2200,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/10/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/09/2024,2200,2800,2700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/02/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/01/2025,1400,2000,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,12/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,27/08/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,02/06/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,12/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,01/06/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,14/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/06/2025,1000,1800,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,25/06/2025,1000,1800,1000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,14/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,19/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,04/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,21/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/11/2025,1600,2000,1900,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/10/2025,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,20/10/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,26/10/2025,1400,1600,1550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,30/10/2025,1600,1800,1750,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/06/2024,1800,2400,2250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/06/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/06/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/06/2024,1800,2600,2400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/06/2024,1800,2600,2400,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/05/2024,1500,2200,2100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/05/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/01/2024,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,04/02/2024,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/03/2024,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/04/2024,1500,2000,1875,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/01/2024,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/01/2024,1000,1500,1370,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,03/02/2024,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/03/2024,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,01/04/2024,1800,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/04/2024,1500,2200,2025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/09/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,07/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,11/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,15/01/2025,1400,2200,2000,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/01/2025,1400,2000,1850,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,24/10/2024,2000,2500,2350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/10/2024,2200,2800,2550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/10/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,06/03/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,19/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,25/03/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,29/06/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,03/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,05/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,17/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,23/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,24/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,31/07/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,13/05/2025,1000,1800,1625,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/05/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,31/05/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,12/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/04/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,22/04/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/11/2024,2000,2600,2450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/12/2024,1600,2200,2050,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,14/08/2024,2200,2500,2425,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,26/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,31/08/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/07/2024,2000,2800,2600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/07/2024,1800,2800,2550,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,23/07/2024,2200,2800,2650,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,08/06/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,06/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/07/2023,1000,1300,1225,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,22/07/2023,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,02/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/08/2023,1300,1600,1525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/08/2023,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,05/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/09/2023,1200,1300,1275,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,18/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,21/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,25/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/09/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,10/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/10/2023,1200,1400,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,09/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,29/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,30/11/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,12/12/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,13/12/2023,1100,1300,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,16/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,19/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,20/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,27/12/2023,1100,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,01/01/2023,1000,1800,1725,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,04/01/2023,1000,1800,1725,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,14/01/2023,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,29/01/2023,800,1500,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,30/01/2023,800,1600,1400,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,04/02/2023,800,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,05/02/2023,800,1400,1250,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,16/02/2023,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,23/02/2023,600,1000,900,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,23/03/2023,600,900,825,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,25/03/2023,600,1000,900,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,27/03/2023,600,1000,900,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,06/04/2023,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,12/04/2023,900,1500,1350,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,02/05/2023,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,04/05/2023,900,1300,1200,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,11/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,17/05/2023,900,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,20/05/2023,900,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,22/05/2023,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,23/05/2023,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur,Potato,Other,FAQ,28/05/2023,900,1200,1025,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,FAQ,17/09/2024,450,550,525,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,07/08/2025,1000,1800,1600,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,12/08/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,19/08/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,28/08/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,10/09/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,13/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,15/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,18/09/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,25/09/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,08/10/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,09/10/2025,1000,1500,1375,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,14/10/2025,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur,Potato,Local,Local,16/10/2025,1000,1500,1325,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,17/11/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,14/12/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,30/12/2025,500,1000,875,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,01/01/2026,400,800,700,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,08/02/2026,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,12/02/2026,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,11/02/2026,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,13/11/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,15/11/2025,1500,1800,1725,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,20/11/2025,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,27/11/2025,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,08/11/2025,1200,1800,1625,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,03/11/2025,1600,2000,1900,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,22/12/2025,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,03/12/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,06/12/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,09/12/2025,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,16/12/2025,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,13/12/2025,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,03/02/2026,700,1100,1000,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,09/02/2026,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,03/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,20/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,21/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,19/11/2025,1000,1600,1450,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,22/11/2025,1200,1600,1425,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,25/11/2025,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,26/11/2025,1200,1600,1500,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,29/11/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,10/11/2025,1200,1700,1525,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,01/11/2025,1400,1800,1725,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,01/12/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,11/12/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,17/12/2025,600,1200,1050,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,29/12/2025,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,13/01/2026,500,1000,875,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,10/01/2026,500,1100,950,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,19/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,22/01/2026,500,1000,875,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,29/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,31/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,02/02/2026,600,1000,900,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,05/02/2026,900,1200,1125,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,12/11/2025,1400,1800,1700,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,11/11/2025,1200,1800,1650,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,20/12/2025,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,31/12/2025,500,800,725,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,14/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,24/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,28/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,07/02/2026,900,1200,1075,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,10/02/2026,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,07/01/2026,400,800,700,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,04/11/2025,1500,2000,1875,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,18/11/2025,1200,1700,1575,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,08/12/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,04/12/2025,1000,1400,1325,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,21/12/2025,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,02/12/2025,1000,1400,1300,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,10/12/2025,1000,1200,1150,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,18/12/2025,800,1200,1025,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,08/01/2026,600,1000,900,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,12/01/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,01/02/2026,400,1000,850,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,04/02/2026,800,1200,1100,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,05/01/2026,400,1000,900,24
+Maharashtra,Nagpur,Nagpur APMC,Potato,Local,Local,06/01/2026,400,800,725,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,14/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/08/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/08/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/08/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/08/2024,2300,2500,2400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/09/2024,2500,3000,2700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/12/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/12/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,14/12/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/12/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/12/2024,2400,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/12/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/07/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,13/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/09/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/09/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/09/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,31/10/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/11/2023,1600,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/11/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,23/11/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,12/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,05/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,02/04/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,13/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,16/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,14/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,25/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,28/05/2023,1600,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/11/2024,2500,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,22/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,24/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/07/2025,1900,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,13/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/07/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,19/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,13/04/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,15/04/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/04/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,27/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/11/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/11/2024,2000,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,01/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,11/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,20/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/09/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,10/09/2025,1200,1400,1300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,20/09/2025,1400,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,24/09/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,01/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,29/10/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/10/2025,1200,1500,1300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/10/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/08/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,20/08/2025,1100,1300,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,24/08/2025,1200,1500,1300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/09/2024,3400,3600,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/09/2024,2500,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/09/2024,2800,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,12/12/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,22/08/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/08/2024,2300,2500,2400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/09/2024,3400,3600,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/09/2024,2000,2700,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/01/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/01/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,23/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,31/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,30/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/04/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/04/2025,1500,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,13/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,27/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/09/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/09/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/09/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/10/2023,1600,1800,1700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/11/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/12/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,26/01/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,23/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,05/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,16/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,23/03/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,30/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,20/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,07/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,18/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,18/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,10/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,14/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,11/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,19/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/07/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,24/07/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,01/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,07/08/2025,1400,1600,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/09/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,06/09/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,17/09/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,21/09/2025,1200,1700,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,27/09/2025,1300,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,09/10/2025,1400,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/10/2025,1300,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,28/10/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/07/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,31/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,22/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,14/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,01/01/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,15/01/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,29/01/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,02/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,09/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,19/02/2023,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,09/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,23/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,27/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,04/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,11/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/10/2024,3800,4000,3900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,26/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,12/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,29/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/12/2024,2200,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/12/2024,2000,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/12/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/11/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/11/2024,2000,2500,2400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,20/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,29/04/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,30/04/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,10/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,24/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,28/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,29/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/08/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/08/2024,2000,2500,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,04/02/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/01/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,13/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/03/2024,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/03/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,13/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/07/2025,1900,2200,2000,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,31/07/2025,1400,1600,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,09/09/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,02/09/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,13/09/2025,1300,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/08/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,14/08/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,02/08/2025,500,800,700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,10/08/2025,1200,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/08/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/10/2025,1300,1600,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,07/10/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/12/2024,2400,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/12/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,22/12/2024,2200,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,26/12/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/05/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/06/2024,2000,24000,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,26/06/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,30/06/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/02/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,16/03/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/03/2024,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/03/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/04/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/10/2024,3400,3600,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/11/2024,2400,2800,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/11/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,13/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,23/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,27/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,30/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,20/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/10/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,10/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/12/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,12/01/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,16/02/2023,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,09/03/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,21/05/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,31/08/2024,2000,2700,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/10/2024,3800,4000,3900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/10/2024,3000,4000,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,23/10/2024,2000,3000,2500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/09/2024,2500,2700,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/09/2024,3400,3600,3500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/09/2024,2500,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,22/09/2024,2500,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,08/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,22/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,25/01/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,11/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,27/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,19/04/2025,1000,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,26/04/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,03/08/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,06/08/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/08/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,21/08/2025,1200,1500,1300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,31/08/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,08/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,15/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,18/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,21/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,26/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,09/09/2025,1300,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,14/09/2025,1300,1500,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,16/09/2025,1100,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,25/09/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/10/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,14/10/2025,1300,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,15/10/2025,1400,1700,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,18/10/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,19/10/2025,1400,1700,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,30/10/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/06/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/06/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,09/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,14/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,19/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,08/05/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/01/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,03/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/02/2024,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/03/2024,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,12/03/2024,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,26/09/2024,2900,3500,3000,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,14/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/01/2025,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,28/01/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,05/02/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,15/02/2025,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,13/10/2024,2500,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,27/10/2024,2000,3000,2900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,12/03/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,07/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,28/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,29/06/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,02/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,15/07/2025,2000,2200,2100,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,20/07/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,22/07/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,23/07/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,27/07/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,30/07/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,07/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,08/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,31/05/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/11/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,05/12/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/12/2024,2800,3200,3000,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,01/08/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,27/08/2024,1800,2500,2000,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/08/2024,2000,2500,2300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,02/07/2024,2000,2400,2200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,21/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/07/2024,2400,2800,2600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/06/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,22/06/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,04/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,11/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,18/07/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,06/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,24/08/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,15/10/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,29/10/2023,1600,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,28/11/2023,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,17/12/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,27/12/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,22/01/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,12/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,26/02/2023,1000,1400,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,02/03/2023,800,1000,900,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,12/03/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,20/03/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,26/03/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,06/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Other,FAQ,30/04/2023,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,FAQ,07/09/2024,1800,4000,3900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,13/08/2025,500,800,700,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,19/08/2025,1000,1300,1200,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,27/08/2025,1400,1500,1450,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,28/08/2025,1200,1500,1350,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,07/09/2025,1500,1700,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,11/09/2025,1400,1600,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,18/09/2025,1400,1700,1500,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,23/09/2025,1500,1800,1600,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,30/09/2025,1200,1600,1400,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,01/10/2025,1000,1500,1300,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,02/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek,Potato,Local,Local,08/10/2025,1300,1600,1500,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,21/01/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,11/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,08/02/2026,1000,1500,1300,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,06/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,11/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,04/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,18/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,31/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,09/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,04/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,06/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,11/02/2026,1000,1500,1300,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,24/01/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,03/12/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,11/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,13/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,17/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,02/12/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,20/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,04/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,14/01/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,18/01/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,01/02/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,03/02/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,01/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,26/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,16/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,23/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,06/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,03/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,17/01/2026,800,1000,900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,31/01/2026,600,800,700,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,07/02/2026,1000,1500,1300,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,08/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,02/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,25/11/2025,1800,2000,1900,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,27/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,10/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,28/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,24/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,30/12/2025,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,13/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,07/01/2026,1000,1500,1200,24
+Maharashtra,Nagpur,Ramtek APMC,Potato,Local,Local,27/01/2026,1000,1500,1200,24
